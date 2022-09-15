@@ -1,8 +1,3 @@
-/*
-Author: 	Sravya M
-Roll No.: 	MT2019114
-Date: 		30/09/2019
-*/
 
 
 
